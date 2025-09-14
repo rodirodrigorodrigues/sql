@@ -1,2 +1,2 @@
-# sql
-Sql examples.
+# Master-SQL
+Codes in SQL.
